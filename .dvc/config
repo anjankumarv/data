@@ -1,0 +1,4 @@
+[core]
+    remote = my_local
+['remote "my_local"']
+    url = E:/Projects/model_output
